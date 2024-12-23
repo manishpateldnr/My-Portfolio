@@ -1,24 +1,24 @@
-# Personal Portfolio  
+# 🌟 Personal Portfolio  
 
-Welcome to my personal portfolio! This project showcases my skills, experience, and projects as a Full Stack Developer, providing a seamless experience for visitors to learn more about me and my work.  
+Welcome to my personal portfolio repository! This project showcases my skills, experience, and projects as a Full Stack Developer.  
 
-## 🛠️ Technologies Used  
-- **Front-End:** HTML, CSS, JavaScript, Bootstrap  
-- **Back-End:** PHP  
-- **Other Tools:** VS Code  
+## 🛠️ Built With  
+- **HTML5** for the structure  
+- **CSS3** (with animations) for styling  
+- **JavaScript** for interactivity  
+- **Bootstrap** for responsive design  
 
-## 🌟 Features  
-- **Responsive Design:** Optimized for all devices (desktop, tablet, and mobile).  
-- **Interactive UI:** Smooth animations and intuitive navigation.  
-- **Project Showcase:** Highlighting my completed and ongoing projects with live previews.  
-- **Contact Form:** Directly connect with me via email.  
-- **Resume Download:** Easily access and download my resume.  
+## 🎯 Features  
+- **Responsive Design**: Seamlessly adapts to all screen sizes.  
+- **Project Showcase**: Displays my completed and ongoing projects with descriptions and links.  
+- **Interactive UI**: Smooth animations and clean navigation for an engaging experience.  
+- **Contact Section**: Allows visitors to connect with me directly.  
+- **Resume Download**: Provides an option to download my resume.  
 
 ## 🚀 Getting Started  
 
 ### Prerequisites  
-- A modern web browser.  
-- Optionally, a local server (e.g., XAMPP, WAMP) for the PHP-based back-end.  
+A modern web browser is all you need!  
 
 ### Installation  
 1. Clone the repository:  
